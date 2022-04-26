@@ -1,7 +1,7 @@
 # identifyCourses
 Automated a part of coursera website
 The automation process includes
-Go to corusera.org
+Go to coursera.org
 search web development courses
 filter according to english language, beginner level
 capture the screenshot of the courses displayed
